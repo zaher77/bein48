@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1,ad sport 2
+http://54.39.179.143:8000/live/test/server/2.ts
+#EXTINF:-1,Bein sport 9
+http://54.39.179.143:8000/live/test/server/120.ts
+#EXTINF:-1,Bein sport 12
+http://54.39.179.143:8000/live/test/server/123.ts
+#EXTINF:-1,Bein sport 11
+http://54.39.179.143:8000/live/test/server/122.ts
+#EXTINF:-1,Bein sport 10
+http://54.39.179.143:8000/live/test/server/121.ts
+#EXTINF:-1,Bein sport Hd 8
+http://54.39.179.143:8000/live/test/server/119.ts
+#EXTINF:-1,Bein sport hd 7
+http://54.39.179.143:8000/live/test/server/118.ts
+#EXTINF:-1,Bein sport Hd 6
+http://54.39.179.143:8000/live/test/server/117.ts
+#EXTINF:-1,Bein sport Hd 5
+http://54.39.179.143:8000/live/test/server/116.ts
+#EXTINF:-1,Bein sport hd 4
+http://54.39.179.143:8000/live/test/server/115.ts
+#EXTINF:-1,Bein sport Hd 3
+http://54.39.179.143:8000/live/test/server/114.ts
+#EXTINF:-1,Bein sport Hd 2
+http://54.39.179.143:8000/live/test/server/113.ts
+#EXTINF:-1,Bein sport hd 1
+http://54.39.179.143:8000/live/test/server/112.ts
+#EXTINF:-1,BEIN LOW 1
+http://54.39.179.143:8000/live/test/server/71.ts
+#EXTINF:-1,bein low-2
+http://54.39.179.143:8000/live/test/server/73.ts
+#EXTINF:-1,bein low-3
+http://54.39.179.143:8000/live/test/server/74.ts
+#EXTINF:-1,bein  low-4
+http://54.39.179.143:8000/live/test/server/75.ts
+#EXTINF:-1,bein low-5
+http://54.39.179.143:8000/live/test/server/76.ts
+#EXTINF:-1,bein low-6
+http://54.39.179.143:8000/live/test/server/77.ts
+#EXTINF:-1,bein low-7
+http://54.39.179.143:8000/live/test/server/78.ts
+#EXTINF:-1,bein  low-8
+http://54.39.179.143:8000/live/test/server/79.ts
+#EXTINF:-1,BEIN low-9
+http://54.39.179.143:8000/live/test/server/80.ts
+#EXTINF:-1,alkaas hd 1
+http://54.39.179.143:8000/live/test/server/81.ts
+#EXTINF:-1,alkaas hd 2
+http://54.39.179.143:8000/live/test/server/82.ts
+#EXTINF:-1,alkaas hd 3
+http://54.39.179.143:8000/live/test/server/83.ts
+#EXTINF:-1,alkaas hd 4
+http://54.39.179.143:8000/live/test/server/84.ts
+#EXTINF:-1,alkaas hd 5
+http://54.39.179.143:8000/live/test/server/85.ts
+#EXTINF:-1,Super SPORT 5 HD
+http://54.39.179.143:8000/live/test/server/110.ts
+#EXTINF:-1,Super SPORT 4 HD
+http://54.39.179.143:8000/live/test/server/109.ts
+#EXTINF:-1,Super SPORT 3 HD
+http://54.39.179.143:8000/live/test/server/108.ts
+#EXTINF:-1,Super SPORT 2 HD
+http://54.39.179.143:8000/live/test/server/107.ts
+#EXTINF:-1,Super SPORT 1 HD
+http://54.39.179.143:8000/live/test/server/106.ts
+#EXTINF:-1,Arena sport1
+http://54.39.179.143:8000/live/test/server/102.ts
+#EXTINF:-1,Arena sport 4
+http://54.39.179.143:8000/live/test/server/105.ts
+#EXTINF:-1,Arena sport 3
+http://54.39.179.143:8000/live/test/server/104.ts
+#EXTINF:-1,Arena sport 2
+http://54.39.179.143:8000/live/test/server/103.ts
